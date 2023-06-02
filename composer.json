@@ -1,0 +1,13 @@
+{
+  "autoload": {
+    "psr-4": {
+      "wfm\\": "vendor/wfm",
+      "app\\": "app"
+    }
+  },
+  "require": {
+    "gabordemooij/redbean": "^v5.7.4",
+    "illuminate/database": "^10.11",
+    "phpmailer/phpmailer": "^6.8"
+  }
+}

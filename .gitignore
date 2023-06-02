@@ -1,0 +1,9 @@
+.idea
+*/.idea
+
+!vendor/wfm/*
+!vendor/*.php
+
+public/dataUser/*
+
+tmp/
